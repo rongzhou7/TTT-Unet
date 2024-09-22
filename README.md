@@ -30,6 +30,7 @@ If you use our work in your research, please cite our paper as follows:
   journal={arXiv preprint arXiv:2409.11299},
   year={2024}
 }
+```
 
 ## Acknowledgements
 
