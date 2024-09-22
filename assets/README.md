@@ -1,0 +1,3 @@
+- network architecture: `U-Mamba-network.png`
+- segmentation demo: `original_img.png` `seg_mask_overlay.png`
+- create_visualization_video.py: script to generate the video visualization demo
