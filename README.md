@@ -21,8 +21,9 @@ Inference for TTT-Unet models also follows U-Mamba’s setup. To generate predic
 
 ## Paper
 
-If you use this code, please cite our paper:
+If you use our work in your research, please cite our paper as follows:
 
+```bibtex
 @article{zhou2024ttt,
   title={TTT-Unet: Enhancing U-Net with Test-Time Training Layers for biomedical image segmentation},
   author={Zhou, Rong and Yuan, Zhengqing and Yan, Zhiling and Sun, Weixiang and Zhang, Kai and Li, Yiwei and Ye, Yanfang and Li, Xiang and He, Lifang and Sun, Lichao},
