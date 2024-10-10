@@ -1,6 +1,13 @@
 # [TTT-Unet](https://your-link-to-paper-or-project)
 
-Official repository for **TTT-Unet: Enhancing U-Net with Test-Time Training Layers for Biomedical Image Segmentation**. This code is based on **U-Mamba** and serves as the official implementation of our paper.
+Official repository for **TTT-UNet: Enhancing U-Net with Test-Time Training Layers for Biomedical Image Segmentation**. This code is based on **U-Mamba** and serves as the official implementation of our paper.
+
+## Framework
+
+Here is the overall framework of TTT-UNet:
+
+![TTT-Unet Framework](images/framework.png)
+
 
 ## Installation 
 
