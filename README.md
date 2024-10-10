@@ -6,7 +6,7 @@ Official repository for **TTT-UNet: Enhancing U-Net with Test-Time Training Laye
 
 Here is the overall framework of TTT-UNet:
 
-<img src="images/Framework.png" alt="TTT-Unet Framework" width="500"/>
+<img src="images/Framework.png" alt="TTT-Unet Framework" width="700"/>
 
 
 ## Installation 
