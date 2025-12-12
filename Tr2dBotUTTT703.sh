@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --job-name=llm360-moe
+#SBATCH --job-name=nnunet-703-eval
 #SBATCH --partition=gpumid
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
@@ -14,7 +14,6 @@
 
 module load cuda/12.1
 module load anaconda/2023.03
-
 
 #eval "$(/lustre/apps/apps/anaconda3/anaconda3-2023.03/bin/conda shell.bash hook)"
 #conda activate llm360
