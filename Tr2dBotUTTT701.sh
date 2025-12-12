@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --job-name=llm360-moe
+#SBATCH --job-name=ttt-unet-train
 #SBATCH --partition=gpumid
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
